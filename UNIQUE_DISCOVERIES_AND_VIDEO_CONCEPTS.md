@@ -359,6 +359,11 @@
 | 白话文_吃土的和尚.md | dunhuang-buddhist-ocr | 科普白话文（苦行特稿） | 1.4K |
 | 白话文_他出山那天大地震了六次.md | dunhuang-buddhist-ocr | 科普白话文（历史特稿） | 1.4K |
 | 白话文_两盏灯_风中灯与密室灯.md | dunhuang-buddhist-ocr | 科普白话文 | 1.1K |
+| 白话文_和尚用道德经说服了道士.md | dunhuang-buddhist-ocr | 科普白话文（跨传统辩论） | 1.5K |
+| 白话文_螃蟹茶和远方的文殊.md | dunhuang-buddhist-ocr | 科普白话文（日常教学） | 1.3K |
+| 白话文_装傻才是真功夫_五祖的秘密修行法.md | dunhuang-buddhist-ocr | 科普白话文（实修核心） | 2.6K |
+| 白话文_听到了没有_一千三百年前的听力测试.md | dunhuang-buddhist-ocr | 科普白话文（实修核心） | 2.2K |
+| 白话文_洗澡的七个秘密_达摩观心论暗语解码.md | dunhuang-buddhist-ocr | 科普白话文（仪轨解构） | 2.2K |
 | BARBER_1990_ANALYSIS.md | dunhuang-buddhist-ocr | 文献分析 | ~5K |
 | MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
