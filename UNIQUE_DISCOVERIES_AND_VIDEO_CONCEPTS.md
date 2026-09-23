@@ -121,6 +121,24 @@
 
 ---
 
+### ⭐ 发现 #8（极高独家性）：保唐无住"无念级联"≈ 大圆满本觉超越二元
+
+**一句话**：无住在与节度使崔宁的法战中，用"无念即无X"的排比句式系统否定十一对二元对立——这个结构与大圆满文献中 rigpa 超越一切二元（gnyis med）的标准属性列表几乎一一对应。
+
+**独家程度**：★★★★★（从未有学者做过此对照）
+
+**核心证据**：
+- T2075 lines 1865-1883：无念即无生、无灭、无爱、无取、无舍、无高、无下、无男、无女、无是、无非
+- "正无念之时，一切法皆是佛法" ≈ rang bzhin lhun grub（自性任运圆满）
+- "有念若无，无念不自" ≈ sgom med 的"连无修也不执取"
+- 与 Iso #4（三句总持）构成双层体系：操作层 + 见地层
+
+**产出文件**：
+- `ISOMORPHISM_8_WUNIAN_CASCADE_ANALYSIS.md`（学术级）
+- `白话文_什么都没有的时候什么都有了_无念级联.md`（科普级）
+
+---
+
 ### Shardza Vol3 OCR 状态
 
 **结论**：Vol3 sku gsum rang shar（1.5MB）的 OCR 质量极差，Tibetan key terms 全部搜不到（thod rgal, nam mkha, sgron ma 等均 0 hits）。OpenPecha Google Vision OCR 无法可靠识别这段藏文。**此方向暂时搁置**，需要更好的 OCR 源或手动转录。
@@ -245,6 +263,38 @@
 
 ---
 
+#### Ep7：什么都没有的时候，什么都有了——无念级联
+
+**对应发现**：#8（无念级联 ≈ rigpa 超越二元）
+
+**脚本骨架**：
+1. **开头**：「公元770年代，成都。一位权倾四川的节度使问一个和尚：你的修行到底在修什么？和尚说了一段话——用十一个"无"，把整个世界拆了个干净。」
+2. **无念级联**：逐句白话——无生无灭、无爱无取无舍、无高无下、无男无女、无是无非
+3. **"有念若无，无念不自"**：连"无念"本身都不是你该追求的——双重否定
+4. **大圆满对照**：rigpa 的属性清单几乎一一对应——不是巧合，是结构同构
+5. **高潮**："正无念之时，一切法皆是佛法"——整个中国佛教史上最激进的一句话
+6. **结尾**：「不需要修什么、证什么——在你停下的那一刻，一切本来就是圆满的。」
+
+**现有素材**：`白话文_什么都没有的时候什么都有了_无念级联.md`
+
+---
+
+#### Ep8：树上的乌鸦叫了一声——禅宗最精彩的法战
+
+**对应发现**：#3 延伸（闻声不动 ≈ ngo sprod 实战版）
+
+**脚本骨架**：
+1. **开头**：「宰相问和尚：你看到院子里的树吗？和尚说看到了。你看到墙外的树吗？也看到了。这时候树上一只乌鸦叫了一声——」
+2. **完整法战还原**：杜鸿渐 vs 无住，三个回合层层深入
+3. **乌鸦那一刻**：相公用随机事件考验——"你听到了吗？"
+4. **无住的回答**：世间见闻觉知 vs 究竟无念——三层否定
+5. **大圆满 ngo sprod 对照**：上师用感官经验指出心性——完全一样的教学法
+6. **结尾**：宰相行大礼——「一千两百年前的那只乌鸦，至今仍在叫。」
+
+**现有素材**：`白话文_树上的乌鸦叫了一声_禅宗最精彩法战.md`
+
+---
+
 ### 第二季方向（待开发）
 
 | 集数 | 主题 | 素材来源 |
@@ -294,12 +344,15 @@
 | ISOMORPHISM_2_SKY_GAZING_ANALYSIS.md | dunhuang-buddhist-ocr | 学术分析 | ~15K |
 | ISOMORPHISM_4_BAOTANG_DZOGCHEN_ANALYSIS.md | dunhuang-buddhist-ocr | 学术分析 | 4K |
 | ISOMORPHISM_7_FOCUSED_GAZING_ANALYSIS.md | dunhuang-buddhist-ocr | 学术分析 | ~6K |
+| ISOMORPHISM_8_WUNIAN_CASCADE_ANALYSIS.md | dunhuang-buddhist-ocr | 学术分析 | ~4K |
 | 白话文_看净虚空凝视_禅宗与大圆满对比.md | dunhuang-buddhist-ocr | 科普白话文 | 4.8K |
 | 白话文_守本真心_弘忍与大圆满安住本觉.md | dunhuang-buddhist-ocr | 科普白话文 | 4.7K |
 | 白话文_被驱逐的禅师_摩诃衍在西藏.md | dunhuang-buddhist-ocr | 科普白话文 | 3.9K |
 | 白话文_最激进的禅师_保唐无住与大圆满.md | dunhuang-buddhist-ocr | 科普白话文 | 2.9K |
 | 白话文_从武将到禅师_保唐无住传奇.md | dunhuang-buddhist-ocr | 科普白话文（人物特稿） | 2.7K |
 | 白话文_一直看不要停_傅大士凝视禅法.md | dunhuang-buddhist-ocr | 科普白话文 | 1.5K |
+| 白话文_什么都没有的时候什么都有了_无念级联.md | dunhuang-buddhist-ocr | 科普白话文 | 1.8K |
+| 白话文_树上的乌鸦叫了一声_禅宗最精彩法战.md | dunhuang-buddhist-ocr | 科普白话文（法战特稿） | 1.8K |
 | BARBER_1990_ANALYSIS.md | dunhuang-buddhist-ocr | 文献分析 | ~5K |
 | MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
