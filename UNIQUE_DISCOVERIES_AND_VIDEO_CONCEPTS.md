@@ -212,6 +212,39 @@
 
 ---
 
+#### Ep5：从武将到禅师——保唐无住传奇
+
+**对应发现**：#6 延伸（人物特稿）
+
+**脚本骨架**：
+1. **开头**：「他二十岁，是大唐帝国西北边疆的先锋武将。武艺绝伦，膂力过人。然后他说了一句话，放弃了一切。」
+2. **弃武从道**：遇维摩诘化身陈楚璋 → 密契心法 → 白衣修行三五年
+3. **万里求法**：太原→五台山→贺兰山→太白山→成都，一万里
+4. **吃土的修行者**：天苍山上什么都不做 → 被告状 → 金和尚：我当年连厕所都没时间上
+5. **秘密传衣**：金和尚含泪秘密托付达摩袈裟 → "急去，莫教人见"
+6. **神人追讨**：袈裟被偷藏两年 → 有人买了 → 夜里"神人"威胁退还 → 无人敢再买
+7. **结尾**：「一个被自己的传统遗忘的人——他的教法，却和地球另一端最秘密的修行法门几乎完全一样。」
+
+**现有素材**：`白话文_从武将到禅师_保唐无住传奇.md`
+
+---
+
+#### Ep6：一直看，不要停——两种凝视的秘密
+
+**对应发现**：#7（守一不移 ≈ thig le 注视）+ #1 对比
+
+**脚本骨架**：
+1. **开头**：「六世纪的中国，有两种完全不同的"看"的修行。一种是盯住一个点看。另一种是看整个天空。这两种方法在一千五百年后被发现，恰好对应大圆满修行体系的两个不同层级。」
+2. **傅大士的定点凝视**：绳系鸟足的比喻 → 具体操作
+3. **T2834 的天空凝视**：虚空无边看亦无边 → 什么都不做
+4. **大圆满的双层体系**：thig le 定点注视（初阶）→ 天空凝视（高阶）
+5. **关键洞察**：「中国六世纪的文献里同时存在这两种方法——这不是一个巧合能解释的。」
+6. **结尾**：「一个完整的修行阶梯，被时间埋了一千五百年，现在被重新拼了出来。」
+
+**现有素材**：`ISOMORPHISM_7_FOCUSED_GAZING_ANALYSIS.md` + `白话文_一直看不要停_傅大士凝视禅法.md`
+
+---
+
 ### 第二季方向（待开发）
 
 | 集数 | 主题 | 素材来源 |
@@ -259,7 +292,16 @@
 | 文件 | 仓库 | 类型 | 字数 |
 |------|------|------|------|
 | ISOMORPHISM_2_SKY_GAZING_ANALYSIS.md | dunhuang-buddhist-ocr | 学术分析 | ~15K |
+| ISOMORPHISM_4_BAOTANG_DZOGCHEN_ANALYSIS.md | dunhuang-buddhist-ocr | 学术分析 | 4K |
+| ISOMORPHISM_7_FOCUSED_GAZING_ANALYSIS.md | dunhuang-buddhist-ocr | 学术分析 | ~6K |
 | 白话文_看净虚空凝视_禅宗与大圆满对比.md | dunhuang-buddhist-ocr | 科普白话文 | 4.8K |
+| 白话文_守本真心_弘忍与大圆满安住本觉.md | dunhuang-buddhist-ocr | 科普白话文 | 4.7K |
+| 白话文_被驱逐的禅师_摩诃衍在西藏.md | dunhuang-buddhist-ocr | 科普白话文 | 3.9K |
+| 白话文_最激进的禅师_保唐无住与大圆满.md | dunhuang-buddhist-ocr | 科普白话文 | 2.9K |
+| 白话文_从武将到禅师_保唐无住传奇.md | dunhuang-buddhist-ocr | 科普白话文（人物特稿） | 2.7K |
+| 白话文_一直看不要停_傅大士凝视禅法.md | dunhuang-buddhist-ocr | 科普白话文 | 1.5K |
+| BARBER_1990_ANALYSIS.md | dunhuang-buddhist-ocr | 文献分析 | ~5K |
+| MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
 | PRACTICE_METHOD_ANALYSIS.md | dunhuang-buddhist-ocr | 实修提取 | ~10K |
 | NARRATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 故事性内容 | ~8K |
