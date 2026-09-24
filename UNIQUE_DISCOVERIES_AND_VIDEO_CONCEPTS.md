@@ -386,6 +386,15 @@
 | 白话文_心如木石_百丈怀海的解脱操作手册.md | dunhuang-buddhist-ocr | 科普白话文（实修核心★★★） | 1.9K |
 | 白话文_南泉说了两个字苍天门就开了_与赵州的顶级机锋.md | dunhuang-buddhist-ocr | 科普白话文（机锋★★） | 1.6K |
 | 白话文_猎人问了一句话就放下了弓箭_石鞏慧藏的开悟.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★★） | 1.7K |
+| 白话文_你自己有个宝藏你不要_大珠慧海的第一课.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★） | 1.5K |
+| 白话文_石头路滑_鄧隱峰两次碰壁的故事.md | dunhuang-buddhist-ocr | 科普白话文（故事★★） | 1.3K |
+| 白话文_六祖说佛在你身体里有三个_懺悔第六的终极翻案.md | dunhuang-buddhist-ocr | 科普白话文（教义核心★★★★） | 1.9K |
+| 白话文_问也打不问也打_德山宣鉴的棒子禅.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★★） | 2.3K |
+| 白话文_钓丝千尺意在深潭_船子和尚覆舟而逝.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★★★） | 1.8K |
+| 白话文_不受戒也能了生死_高沙弥和药山的较量.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★★） | 1.7K |
+| 白话文_过河看到自己的影子他就悟了_洞山良价的倒影开悟.md | dunhuang-buddhist-ocr | 科普白话文（哲学核心★★★★★） | 1.9K |
+| 白话文_念了三千遍经的人反而被经念了_法达的故事.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★★★） | 1.8K |
+| 白话文_我宁愿粉身碎骨也不敢瞎了一个和尚的眼_雪峰义存.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★★） | 1.7K |
 | BARBER_1990_ANALYSIS.md| dunhuang-buddhist-ocr | 文献分析 | ~5K |
 | MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
