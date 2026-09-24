@@ -374,6 +374,12 @@
 | 白话文_一屋子粪土和山顶打坐_五祖弘忍的两个谜语.md | dunhuang-buddhist-ocr | 科普白话文（实修+故事） | 1.8K |
 | 白话文_他抓着树枝站着死了_三祖僧璨最后的行为艺术.md | dunhuang-buddhist-ocr | 科普白话文（故事★★） | 1.9K |
 | 白话文_钟声在寺里还是在十方_神秀的连珠炮问答.md | dunhuang-buddhist-ocr | 科普白话文（机锋教学） | 2.0K |
+| 白话文_不识字的樵夫写了中国最有名的一首诗_六祖坛经最戏剧性的一夜.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★） | 2.2K |
+| 白话文_供养十方诸佛不如供养一个无心道人_黄檗禅师最狠的一句话.md | dunhuang-buddhist-ocr | 科普白话文（实修核心★★） | 2.4K |
+| 白话文_六祖说你们全搞错了_坐禅不是坐着不动.md | dunhuang-buddhist-ocr | 科普白话文（实修核心★★） | 2.3K |
+| 白话文_赵州和尚的三个字_洗钵去如何改变了禅宗.md | dunhuang-buddhist-ocr | 科普白话文（故事★★） | 2.5K |
+| 白话文_即心即佛到非心非佛到不是物_马祖道一的三句话.md | dunhuang-buddhist-ocr | 科普白话文（哲学核心★★） | 2.2K |
+| 白话文_问了三次被打了三次_临济义玄是怎么开悟的.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★） | 2.0K |
 | BARBER_1990_ANALYSIS.md| dunhuang-buddhist-ocr | 文献分析 | ~5K |
 | MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
@@ -393,6 +399,9 @@
 | 观心论_T2833.txt | dunhuang-buddhist-ocr | CBETA | 14K |
 | 历代法宝记_T2075.txt | dunhuang-buddhist-ocr | CBETA | 95K |
 | 楞伽师资记_T2837.txt | dunhuang-buddhist-ocr | CBETA | 43K |
+| 六祖坛经_T2008.txt | dunhuang-buddhist-ocr | CBETA | 46K |
+| 黄檗传心法要_T2012A.txt | dunhuang-buddhist-ocr | CBETA | 18K |
+| 景德传灯录_T2076.txt | dunhuang-buddhist-ocr | CBETA | 600K+ |
 | vol3 sku gsum rang shar | zhangzhung-snyan-rgyud-ocr | BDRC/OpenPecha | 1.5MB |
 | vol9 暗关指南 | zhangzhung-snyan-rgyud-ocr | BDRC/OpenPecha | 747KB |
 | vol10 修行仪轨 | zhangzhung-snyan-rgyud-ocr | BDRC/OpenPecha | 1.4MB |
