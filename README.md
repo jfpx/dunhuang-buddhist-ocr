@@ -34,5 +34,5 @@
 
 ## 方法论
 
-参见 swacli skill `buddhist-text-analysis`（`swacli skill get buddhist-text-analysis`）
+详见本仓库 `UNIQUE_DISCOVERIES_AND_VIDEO_CONCEPTS.md` 中的方法论说明。
 敦煌遗书 AI OCR — Buddhist manuscripts from Mogao Caves (IDP collection)
