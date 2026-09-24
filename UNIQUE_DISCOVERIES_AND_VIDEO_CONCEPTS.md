@@ -380,6 +380,12 @@
 | 白话文_赵州和尚的三个字_洗钵去如何改变了禅宗.md | dunhuang-buddhist-ocr | 科普白话文（故事★★） | 2.5K |
 | 白话文_即心即佛到非心非佛到不是物_马祖道一的三句话.md | dunhuang-buddhist-ocr | 科普白话文（哲学核心★★） | 2.2K |
 | 白话文_问了三次被打了三次_临济义玄是怎么开悟的.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★） | 2.0K |
+| 白话文_南泉和尚一刀斩了猫_赵州把鞋顶在头上.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★） | 1.5K |
+| 白话文_马祖一声吼百丈三天聋了_禅宗最猛的传法.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★） | 1.8K |
+| 白话文_一个和尚改写了中国寺院一千年的规矩_百丈清规.md | dunhuang-buddhist-ocr | 科普白话文（制度史★★） | 1.6K |
+| 白话文_心如木石_百丈怀海的解脱操作手册.md | dunhuang-buddhist-ocr | 科普白话文（实修核心★★★） | 1.9K |
+| 白话文_南泉说了两个字苍天门就开了_与赵州的顶级机锋.md | dunhuang-buddhist-ocr | 科普白话文（机锋★★） | 1.6K |
+| 白话文_猎人问了一句话就放下了弓箭_石鞏慧藏的开悟.md | dunhuang-buddhist-ocr | 科普白话文（故事★★★★） | 1.7K |
 | BARBER_1990_ANALYSIS.md| dunhuang-buddhist-ocr | 文献分析 | ~5K |
 | MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
