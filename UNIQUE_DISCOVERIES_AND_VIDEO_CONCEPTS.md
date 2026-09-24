@@ -364,7 +364,12 @@
 | 白话文_装傻才是真功夫_五祖的秘密修行法.md | dunhuang-buddhist-ocr | 科普白话文（实修核心） | 2.6K |
 | 白话文_听到了没有_一千三百年前的听力测试.md | dunhuang-buddhist-ocr | 科普白话文（实修核心） | 2.2K |
 | 白话文_洗澡的七个秘密_达摩观心论暗语解码.md | dunhuang-buddhist-ocr | 科普白话文（仪轨解构） | 2.2K |
-| BARBER_1990_ANALYSIS.md | dunhuang-buddhist-ocr | 文献分析 | ~5K |
+| 白话文_绕塔不用脚_达摩重新定义了三件事.md | dunhuang-buddhist-ocr | 科普白话文（仪轨解构） | 2.5K |
+| 白话文_六根测试_一千三百年前的实修操作手册.md | dunhuang-buddhist-ocr | 科普白话文（实修核心） | 2.4K |
+| 白话文_释迦吃的奶不是奶_达摩最离谱的一次翻案.md | dunhuang-buddhist-ocr | 科普白话文（暗语解码） | 1.8K |
+| 白话文_你身上住着六个贼_达摩的六感官降服术.md | dunhuang-buddhist-ocr | 科普白话文（实修操作） | 1.7K |
+| 白话文_佛像是用身体铸的_达摩的七件事翻案全集.md | dunhuang-buddhist-ocr | 科普白话文（仪轨颠覆） | 2.4K |
+| BARBER_1990_ANALYSIS.md| dunhuang-buddhist-ocr | 文献分析 | ~5K |
 | MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
 | PRACTICE_METHOD_ANALYSIS.md | dunhuang-buddhist-ocr | 实修提取 | ~10K |
