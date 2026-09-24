@@ -369,6 +369,11 @@
 | 白话文_释迦吃的奶不是奶_达摩最离谱的一次翻案.md | dunhuang-buddhist-ocr | 科普白话文（暗语解码） | 1.8K |
 | 白话文_你身上住着六个贼_达摩的六感官降服术.md | dunhuang-buddhist-ocr | 科普白话文（实修操作） | 1.7K |
 | 白话文_佛像是用身体铸的_达摩的七件事翻案全集.md | dunhuang-buddhist-ocr | 科普白话文（仪轨颠覆） | 2.4K |
+| 白话文_什么都不用做_道信禅师最离经叛道的一句话.md | dunhuang-buddhist-ocr | 科普白话文（实修核心★） | 1.8K |
+| 白话文_拴鸟和射箭_一千三百年前的注意力训练手册.md | dunhuang-buddhist-ocr | 科普白话文（实修操作★） | 1.9K |
+| 白话文_一屋子粪土和山顶打坐_五祖弘忍的两个谜语.md | dunhuang-buddhist-ocr | 科普白话文（实修+故事） | 1.8K |
+| 白话文_他抓着树枝站着死了_三祖僧璨最后的行为艺术.md | dunhuang-buddhist-ocr | 科普白话文（故事★★） | 1.9K |
+| 白话文_钟声在寺里还是在十方_神秀的连珠炮问答.md | dunhuang-buddhist-ocr | 科普白话文（机锋教学） | 2.0K |
 | BARBER_1990_ANALYSIS.md| dunhuang-buddhist-ocr | 文献分析 | ~5K |
 | MOHEYAN_PRACTICE_RECONSTRUCTION.md | dunhuang-buddhist-ocr | 实修复原 | ~4K |
 | CROSS_TRADITION_COMPARATIVE_ANALYSIS.md | dunhuang-buddhist-ocr | 三传统对比 | 13.5K |
