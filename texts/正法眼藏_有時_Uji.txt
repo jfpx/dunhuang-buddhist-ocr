@@ -1,0 +1,132 @@
+================================================================================
+正法眼藏・有時 (Shōbōgenzō: Uji / Being-Time)
+道元禅師 (Dōgen Zenji, 1240)
+================================================================================
+
+来源: https://en.wikipedia.org/wiki/Uji_(Being-Time)
+获取时间: 2026-09-25
+
+注：thezensite.com 的 Uji 英译全文（Waddell译本等）获取失败。
+以下综合Wikipedia条目中引用的多种翻译及学术解读，尽可能还原原文内容。
+
+================================================================================
+【概述】
+================================================================================
+
+「有時」(Uji) 是道元禅师正法眼蔵七十五卷本中第20卷。1240年初冬写于
+兴圣宝林寺（京都南部）。Uji是道元的禅宗新造词，将日常日语中读作
+"arutoki"(有る時，"某时；曾经")的汉字「有時」，以音读"uji"重新诠释为
+「存在-时间」(Being-Time)——时间即存在，存在即时间。
+
+日语关键词uji的英译包括：
+- Existence/Time (Hee-Jin Kim, 1978)
+- Being-Time (Waddell, 1979; Roberts, 2018)
+- Being Time (Thomas Cleary, 1986)
+- Time-Being (Welch & Tanahashi, 1985)
+- Just for the Time Being / For the Whole of Time is the Whole of Existence (Nearman, 2007)
+- Existence-Time (Nishijima & Cross, 2008)
+- Existential moment (Raud, 2012)
+
+================================================================================
+【开篇偈颂 — 药山惟俨所说】
+================================================================================
+
+Waddell & Abe 译 (Being-Time):
+
+  An old Buddha said:
+  For the time being, I stand astride the highest mountain peaks.
+  For the time being, I move on the deepest depths of the ocean floor.
+  For the time being, I'm three heads and eight arms [of an Asura].
+  For the time being, I'm eight feet or sixteen feet [a Buddha-body].
+  For the time being, I'm a staff or a whisk.
+  For the time being, I'm a pillar or a lantern.
+  For the time being, I'm Mr. Chang or Mr. Li [any Tom, Dick, or Harry].
+  For the time being, I'm the great earth and heavens above.
+
+其他翻译对照（第一节）：
+
+Kim 译:
+  Sometimes (uji) standing so high up on the mountain top;
+  Sometimes walking deep down on the bottom of the sea;
+
+Welch & Tanahashi 译:
+  For the time being stand on top of the highest peak.
+  For the time being proceed along the bottom of the deepest ocean.
+
+Nishijima & Cross 译:
+  Sometimes standing on top of the highest peak,
+  Sometimes moving along the bottom of the deepest ocean.
+
+Nearman 译:
+  Standing atop a soaring mountain peak is for the time being
+  And plunging down to the floor of the Ocean's abyss is for the time being;
+
+Roberts 译:
+  Being-time stands on top of the highest peak;
+  Being-time goes to the bottom of the deepest ocean.
+
+================================================================================
+【道元の注释 — Uji的核心教义】
+================================================================================
+
+道元对偈颂的注释开篇：
+
+"The 'time being' means time, just as it is, is being, and being is all time."
+（「有時」とは、時すでにこれ有なり、有はみな時なり。）
+
+这显示了道元赋予"有時"一词的"非同寻常的意义"(Waddell & Abe)。
+
+核心教义要点：
+
+1.【时间与存在不可分离】
+Dainin Katagiri 解释：道元使用"有時"这一新术语来阐明有情"存在"(beings)
+与"时间"(time)不可分离。"有"代表在无时间性的无形领域中共同存在的一切存在，
+"時"则表征独立而又相互联结的每一个当下。
+
+2.【存在即时间】
+Nishijima & Cross 解释：u(有)意为"存在"，ji(時)意为"时间"，
+所以uji意为"存在的时间"或"存在-时间"。因为时间总是与存在相关，
+存在总是与当下的时间相关，过去和未来并非存在的时间——
+当下才是存在与时间交汇之处，是唯一的"存在时间"。
+
+3.【经历即时间自身的展开】
+道元在正法眼蔵中描述时间的流逝不依赖于有情主体：
+"You should learn that passage (kyōraku 経歴) occurs without anything
+external. For example, spring's passage is necessarily that which passes
+through spring."
+（经历无外物。春之经历，必是经过春的经历。）
+
+================================================================================
+【与海德格尔《存在与时间》的比较】
+================================================================================
+
+Steven Heine (1985) 对比了道元《正法眼藏》(1231-1253) 与海德格尔
+《存在与时间》(Sein und Zeit, 1927) 中的时间理论。尽管中世日本与
+现代德国之间存在巨大的文化和历史鸿沟，两者存在哲学上的平行关系。
+
+传统的时间概念化远离了海德格尔所说的 "ursprüngliche Zeit"
+("原初的时间"，即时间性的时间化) 的真实体验，
+类似于道元所说的 "uji no dōri" (有時の道理, "有時的真理")。
+
+Joan Stambaugh (海德格尔《存在与时间》的英译者) 也写了一本关于道元
+时间性理解、佛教无常、佛性的专著 (1990)。
+
+================================================================================
+【身心脱落与有時的关系】
+================================================================================
+
+根据《建撕記》(1753年道元传统传记)，道元年轻时在比叡山（天台宗总部）
+对天台宗的"本覚"(hongaku, original awakening)和"始覚"(shikaku, acquired
+awakening)概念产生了深深的疑惑：
+
+"Both exoteric and esoteric Buddhism teach the original Dharma-nature and
+innate self-nature. If that were true, why have the Buddhas of past, present,
+and future awakened the resolve for and sought enlightenment through ascetic
+practices?"
+
+这一疑惑最终促使道元远赴宋朝中国寻求解答，在如净禅师门下通过
+"身心脱落" (shinjin-datsuraku, "casting off of body-mind") 的开悟体验
+而消解。
+
+这一体验与「有時」的核心洞见密切相关——时间与存在在永远变化的当下
+(everchanging present) 中不可分离。

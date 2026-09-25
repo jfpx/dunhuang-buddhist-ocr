@@ -1,0 +1,192 @@
+================================================================================
+敦煌写本 IOL Tib J 709 — bSam gtan mig sgron (禅定目炬)
+Lamp for the Eye in Contemplation / Samten Migdrön
+================================================================================
+
+来源:
+  - https://en.wikipedia.org/wiki/Samten_Migdron
+  - https://en.wikipedia.org/wiki/Nubchen_Sangye_Yeshe
+  - https://en.wikipedia.org/wiki/Sam_van_Schaik
+获取时间: 2026-09-25
+
+注：IDP (International Dunhuang Project, idp.bl.uk) 数据库返回403拒绝访问。
+earlytibet.com（Sam van Schaik 学术博客）返回404。samvanschaik.com 连接失败。
+以下内容综合 Wikipedia 条目及学术引文。
+
+================================================================================
+【一、文献基本信息】
+================================================================================
+
+标题 (藏文): བསམ་གཏན་མིག་སྒྲོན
+Wylie转写: bsam gtan mig sgron
+别名: rnal 'byor mig gi bsam gtan (禅定之禅观之眼)
+英译: Lamp for the Eye in Contemplation
+中文: 禅定目炬 / 禅观明灯
+
+作者: Nubchen Sangye Yeshe (གནུབས་ཆེན་སངས་རྒྱས་ཡེ་ཤེས)
+      gnubs chen sangs rgyas ye shes (努钦·桑杰耶喜)
+年代: 9世纪（约842-978年"黑暗时期"前后）
+
+馆藏编号: IOL Tib J 709 (大英图书馆·斯坦因藏品)
+发现: 1908年由法国汉学家 Paul Pelliot 在敦煌莫高窟藏经洞中发现
+
+================================================================================
+【二、文献重要性】
+================================================================================
+
+bSam gtan mig sgron 是藏传佛教早期禅修传统的关键文献，具有以下重要性：
+
+1. 大圆满 (Dzogchen) 与禅 (Zen/Chan) 的历史关系
+   该文本是研究大圆满与禅宗历史关系的最重要文献之一，
+   同时也揭示了作者努钦·桑杰耶喜的见解立场。
+
+2. 四种禅修体系的分类
+   努钦在此书中建立了藏传佛教禅修体系的四重分类：
+   - 渐门菩萨乘 (Gradual Vehicle of Bodhisattvas / Bodhisattvayana)
+   - 顿门大乘 — 对应禅/Chan/Zen宗 (Sudden Mahāyāna)
+   - 密咒乘 (Mahāyoga)
+   - 大圆满 (Atiyoga / rDzogs chen)
+
+3. 保存早期藏地禅宗文献
+   Carmen Meinert 的研究 "Chinese Chan and Tibetan Rdzogs Chen:
+   Preliminary Remarks on Two Tibetan Dunhuang Manuscripts" 指出，
+   该文献保存了早期中国禅宗与藏地大圆满之间交流的珍贵资料。
+
+4. 真实性无可争议
+   由于该写本自11或12世纪即封存于敦煌洞窟中，直到1908年才被发现，
+   其真实性"超越一切质疑"(Elias Capriles)。
+
+================================================================================
+【三、努钦·桑杰耶喜 — 作者】
+================================================================================
+
+努钦·桑杰耶喜 (9世纪) 是莲花生大士 (Padmasambhava) 二十五大弟子之一。
+他以在藏传佛教"黑暗时期"(约842-978 CE，朗达玛灭佛之后) 保存了大量
+密宗传承而闻名。
+
+Jacob Dalton 描述：
+"Nubchen Sanggyé Yeshé is renowned for having preserved a number of
+tantric lineages through the so-called 'dark period' of Tibetan history
+(roughly 842-978 C.E.), when state-supported monastic Buddhism fell into
+decline. Nubchen authored many works, including the Lamp for the Eye in
+Contemplation (bsam gtan mig sgron), an extensive discussion of early
+Tibetan contemplative systems."
+
+努钦的其他重要著作包括《暗铠》(mun pa'i go cha, Armor Against Darkness)，
+是对阿努瑜伽核心密续《意趣集经》(dgongs pa 'dus pa'i mdo) 的系统注释。
+
+================================================================================
+【四、Sam van Schaik 与此文献的研究】
+================================================================================
+
+Sam van Schaik 是英国藏学家，现任大英图书馆濒危档案项目负责人。
+此前曾任国际敦煌项目 (International Dunhuang Project, IDP) 项目经理，
+专门研究来自敦煌的藏传佛教写本。
+
+与 bSam gtan mig sgron 及 IOL Tib J 709 直接相关的工作：
+
+1.【敦煌藏文密宗写本编目】(2003-2005)
+   Van Schaik 与 Jacob Dalton 合作编纂了大英图书馆斯坦因藏品中
+   藏文密宗写本的描述目录：
+   - Dalton, Jacob & Sam van Schaik. "Tibetan Tantric Manuscripts from
+     Dunhuang: A Descriptive Catalogue of the Stein Collection at the
+     British Library." Leiden: Brill, 2006. ISBN 9789004154223
+
+2.【藏文写本古文字学】(2005-2008)
+   研究敦煌藏文写本的古文字学，试图识别个别抄写人。
+
+3.【Tibetan Zen: Discovering a Lost Tradition】(2015)
+   Van Schaik 在此书中详细讨论了敦煌发现的藏传禅宗文献，
+   bSam gtan mig sgron 作为主要参考文献。该书2019年获得
+   "天竺图书奖"(Tianzhu Book Prize for Excellence in Chan Studies)。
+
+4.【The Spirit of Zen】(2018)
+   进一步探讨禅的精神传统，其中也涉及敦煌禅宗文献。
+
+5.【Esoteric Buddhism at Dunhuang】(2010)
+   与 Matthew Kapstein 合编的论文集，涵盖敦煌密教仪轨与教义。
+
+================================================================================
+【五、大圆满 (Atiyoga) 在 bSam gtan mig sgron 中的阐述】
+================================================================================
+
+Karmay (2007: pp. 107-108) 英译了 bSam gtan mig sgron 中关于
+Atiyoga（大圆满）的关键段落：
+
+"Now, as for expounding the doctrine of Atiyoga, the excellent vehicle,
+the best and topmost yoga, the mother of all conquerors, its name is the
+Great Perfection. Why? Because it gives detailed teaching with a view to
+imparting direct understanding of the principle of this non-sought
+spontaneity with regard to all existential elements. The sense of the
+spontaneous essence, which is the innermost treasury of all vehicles and
+the great 'universal grandfather' [spyi myes], is to be experienced
+directly by 'self-awareness' [rang rig pas], but not as a thing to be
+kept in mind. It is to be made clear to the 'self-awareness'.
+
+How one is to know of it? In this vehicle of the high yoga, there is
+nothing that can be measured by the discriminative self-intellect as
+expounded in the tantras, authoritative works and precepts. Why is it so?
+Because all the so-called elemental particles have never grown new feathers
+or changed their colour from the beginning. It is the Buddha-nature, the
+'sphere of the great circle' [thig le chen po'i klong] of the
+'self-awareness'.
+
+Who then has seen this as an object? Who has demonstrated the logic for
+seeing it? To what doctrine does one entrust it? With what cognition does
+one cognise it? All the elements are non-conceivable, because separately
+they have no substance."
+
+引用自：Karmay, Samten Gyaltsen (2007). The Great Perfection (rDzogs chen):
+A Philosophical and Meditative Teaching of Tibetan Buddhism. Second Edition.
+Boston: Brill's Tibetan Studies Library. ISBN 978-90-04-15142-0.
+
+================================================================================
+【六、"六相总圆" (Total Sphere in Six Aspects)】
+================================================================================
+
+bSam gtan mig sgron 中描述了"大圆"(thig le chen po) 的六个面向：
+
+1. 法界之圆 (dbyings kyi thig le) — Sphere of the Ultimate Dimension
+2. 法界清净之圆 (dbyings rnam par dag pa'i thig le) — Sphere of Purity
+3. 法性之圆 (chos nyid thig le) — Sphere of Dharmata
+4. 智慧明点 (ye shes thig le) — Wisdom Bindu
+5. 普贤之圆 (kun tu bzang po'i thig le) — Sphere of Samantabhadra
+6. 任运之圆 (lhun kyi[s] grub pa'i thig le) — Sphere of Spontaneous Presence
+
+================================================================================
+【七、英文完整翻译】
+================================================================================
+
+2022/2023年，Dylan Esler 出版了该文献的首个完整英文翻译：
+- Esler, Dylan. "The Lamp for the Eye of Contemplation."
+  Oxford University Press, November 2022. ISBN 978-0-19-760990-3
+
+================================================================================
+【八、关键学术参考文献】
+================================================================================
+
+1. Karmay, Samten Gyaltsen. "The Great Perfection (rDzogs chen)."
+   Brill, 2007 (2nd ed.). — 最早对此文本进行学术研究的著作
+
+2. Dalton, Jacob & Sam van Schaik. "Tibetan Tantric Manuscripts from
+   Dunhuang." Brill, 2006. — 斯坦因藏品藏文密宗写本目录
+
+3. Van Schaik, Sam. "Tibetan Zen: Discovering a Lost Tradition."
+   Snow Lion, 2015. — 敦煌藏传禅宗研究
+
+4. Meinert, Carmen. "Structural Analysis of the bSam gtan mig sgron."
+   JIABS 26(1): 175-196, 2003. — 结构分析
+
+5. Meinert, Carmen. "Chinese Chan and Tibetan Rdzogs Chen: Preliminary
+   Remarks on Two Tibetan Dunhuang Manuscripts." 2004. — 中国禅与藏地大圆满
+
+6. Norbu, Namkhai. "Dzog Chen and Zen." Blue Dolphin, 1986. — 大圆满与禅
+
+7. Esler, Dylan. "The Exposition of Atiyoga in SM."
+   Revue d'Études Tibétaines. — Atiyoga 章节专论
+
+8. Esler, Dylan. "On the Life of gNubs-chen Sangs-rgyas ye-shes."
+   Revue d'Études Tibétaines, No. 29. — 努钦生平研究
+
+9. Gimello, Robert M. & Gregory, Peter N. "Studies in Ch'an and Hua-yen."
+   University of Hawaii Press, 1983. ISBN 0-8248-0835-5
